@@ -3,4 +3,6 @@ shopping list-
 2)ice cream
 3)pen
 4)book
-5)watch 
+5)watch
+6)bag
+7)shoes 
