@@ -6,3 +6,4 @@ shopping list-
 5)watch
 6)bag
 7)shoes 
+8)pad
