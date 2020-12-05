@@ -5,4 +5,4 @@ shopping list-
 4)book
 5)watch
 6)bag
-7)shoes 
+ 
